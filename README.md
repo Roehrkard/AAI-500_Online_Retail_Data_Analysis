@@ -36,70 +36,70 @@ The project utilizes a public dataset sourced from the UCI Machine Learning Repo
 Dataset URL: https://archive.ics.uci.edu/dataset/352/online+retail
 
 ## Partner(s)/Contributor(s)  
-•	Arifa Kokab 
-•	Laxmi Sulakshana Rapolu
-•	Andrew Roehr 
+•	Arifa Kokab <br/>
+•	Laxmi Sulakshana Rapolu<br/>
+•	Andrew Roehr <br/>
 
 ## Methods Used
-•	Inferential Statistics
-•	Machine Learning
-•	Data Visualization
-•	Data Manipulation
+•	Inferential Statistics<br/>
+•	Machine Learning<br/>
+•	Data Visualization<br/>
+•	Data Manipulation<br/>
 
 ## Technologies
-•	Python
-•	Jupyter Notebook
+•	Python<br/>
+•	Jupyter Notebook<br/>
 
 ## Project Description
 Our project aims to analyze the Online Retail dataset, which captures transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail business. Here are the key aspects:
 
 ### Dataset Description
-Data Source: 
- 	•	The dataset was obtained from https://archive.ics.uci.edu/dataset/352/online+retail.
-	•	Number of Variables: It contains 6 variables.
-	•	Size of Dataset: There are 541,909 instances (transactions).
+Data Source: <br/>
+ 	•	The dataset was obtained from https://archive.ics.uci.edu/dataset/352/online+retail.<br/>
+	•	Number of Variables: It contains 6 variables.<br/>
+	•	Size of Dataset: There are 541,909 instances (transactions).<br/>
 
 ### Data Dictionary
-The dataset includes the following variables:
-	•	InvoiceNo: A 6-digit integral number uniquely assigned to each transaction. If it starts with the letter ‘c’, it indicates a cancellation.
-	•	StockCode: A 5-digit integral number uniquely assigned to each distinct product.
-	•	Description: Product name.
-	•	Quantity: The quantities of each product per transaction.
-	•	InvoiceDate: Represents when each transaction occurred.
-	•	UnitPrice: Product price per unit in sterling.
-Additionally:
-	•	CustomerID: A 5-digit integral number uniquely assigned to each customer.
-	•	Country: Indicates the country where each customer resides.
+The dataset includes the following variables:<br/>
+	•	InvoiceNo: A 6-digit integral number uniquely assigned to each transaction. If it starts with the letter ‘c’, it indicates a cancellation.<br/>
+	•	StockCode: A 5-digit integral number uniquely assigned to each distinct product.<br/>
+	•	Description: Product name.<br/>
+	•	Quantity: The quantities of each product per transaction.<br/>
+	•	InvoiceDate: Represents when each transaction occurred.<br/>
+	•	UnitPrice: Product price per unit in sterling.<br/>
+Additionally:<br/>
+	•	CustomerID: A 5-digit integral number uniquely assigned to each customer.<br/>
+	•	Country: Indicates the country where each customer resides.<br/>
 
 ### Questions and Hypotheses
-Exploratory Questions:
-	◦	What are the most popular products?
-	◦	Are there any seasonal trends in sales?
-	◦	How do customer behaviors differ across countries?
-Hypotheses:
-	◦	Hypothesis 1: High-quantity purchases occur during holiday seasons.
-	◦	Hypothesis 2: Certain products have higher demand in specific countries.
+Exploratory Questions:<br/>
+	◦	What are the most popular products?<br/>
+	◦	Are there any seasonal trends in sales?<br/>
+	◦	How do customer behaviors differ across countries?<br/>
+Hypotheses:<br/>
+	◦	Hypothesis 1: High-quantity purchases occur during holiday seasons.<br/>
+	◦	Hypothesis 2: Certain products have higher demand in specific countries.<br/>
 
 ### Data Analysis, Visualization, and Modeling
-Our approach involves:
-	•	Data Cleaning and Preprocessing:
-	◦	Handling missing values (if any).
-	◦	Addressing outliers.
-	◦	Standardizing features.
-	•	Exploratory Data Analysis (EDA):
-	◦	Visualizing product sales over time.
-	◦	Identifying customer segments.
-	•	Feature Engineering:
-	◦	Creating new features (e.g., total transaction amount).
-Modeling:
-	◦	Regression or clustering models.
+Our approach involves:<br/>
+	•	Data Cleaning and Preprocessing:<br/>
+		◦	Handling missing values (if any).<br/>
+		◦	Addressing outliers.<br/>
+		◦	Standardizing features.<br/>
+	•	Exploratory Data Analysis (EDA):<br/>
+		◦	Visualizing product sales over time.<br/>
+		◦	Identifying customer segments.<br/>
+	•	Feature Engineering:<br/>
+		◦	Creating new features (e.g., total transaction amount).<br/>
+Modeling:<br/>
+	◦	Regression or clustering models.<br/>
 	◦	Predicting future sales or customer segments.
 
 ### Roadblocks
-Challenges:
-	•	Data Quality: Ensuring data consistency and accuracy.
-	•	Model Selection: Choosing appropriate algorithms.
-	•	Interpretability: Making model results understandable for stakeholders.
+Challenges:<br/>
+	•	Data Quality: Ensuring data consistency and accuracy.<br/>
+	•	Model Selection: Choosing appropriate algorithms.<br/>
+	•	Interpretability: Making model results understandable for stakeholders.<br/>
 
 ## MIT License
 
