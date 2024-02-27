@@ -1,5 +1,5 @@
 # Online Retail Data Analysis 
-This project is a part of the AAI-550 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
+This project is a part of the AAI-550 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). <br/>
 -- Project Status: [Completed]
 
 ## Installation
