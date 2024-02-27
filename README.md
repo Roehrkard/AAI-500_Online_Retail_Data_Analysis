@@ -54,7 +54,8 @@ Dataset URL: https://archive.ics.uci.edu/dataset/352/online+retail
 Our project aims to analyze the Online Retail dataset, which captures transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail business. Here are the key aspects:
 
 ### Dataset Description
-	•	Data Source: The dataset was obtained from https://archive.ics.uci.edu/dataset/352/online+retail.
+Data Source: 
+ 	•	The dataset was obtained from https://archive.ics.uci.edu/dataset/352/online+retail.
 	•	Number of Variables: It contains 6 variables.
 	•	Size of Dataset: There are 541,909 instances (transactions).
 
@@ -90,11 +91,12 @@ Our approach involves:
 	◦	Identifying customer segments.
 	•	Feature Engineering:
 	◦	Creating new features (e.g., total transaction amount).
-	•	Modeling:
+Modeling:
 	◦	Regression or clustering models.
 	◦	Predicting future sales or customer segments.
 
-### Roadblocks and Challenges
+### Roadblocks
+Challenges:
 	•	Data Quality: Ensuring data consistency and accuracy.
 	•	Model Selection: Choosing appropriate algorithms.
 	•	Interpretability: Making model results understandable for stakeholders.
